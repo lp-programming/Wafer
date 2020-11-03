@@ -1,7 +1,7 @@
 # Wafer
 Wayland Based Thin Client
 
-Started for the Level1Techs Devember2020 event ( https://forum.level1techs.com/t/wayland-thin-client/163291 ).
+Started for the Level1Techs Devember2020 event ( https://forum.level1techs.com/t/wafer-a-wayland-thin-client/163291 ).
 The goal of this project is to create a Thin client for use with a Linux server and Linux clients using the Wayland protocol over a high speed LAN.
 Applications running on the server should have full 3d acceleration, same as for a local user.  
 CPU consumption on the clients should be minimal, suitable for a raspberry pi or similar.
